@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ewazeuna.github.io/Txs/sitemap_index.txt
+Sitemap: https://ewazeuna.github.io/UmM/sitemap_index.txt
+Sitemap: https://ewazeuna.github.io/iaw/sitemap_index.txt
+Sitemap: https://ewazeuna.github.io/lit/sitemap_index.txt
